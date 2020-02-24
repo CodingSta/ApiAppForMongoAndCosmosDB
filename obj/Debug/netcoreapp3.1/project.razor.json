@@ -1,0 +1,16 @@
+{
+  "FilePath": "/Users/codingstar/Documents/workspaces_VSCode/BooksApi/BooksApi.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": null,
+  "RootNamespace": "BooksApi",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
